@@ -1,2 +1,2 @@
 # Nexus
-AI agent for Acute lymphocytic leukemia diagnosis (ALL) with django and tensorflow.use in cnn
+AI agent for Acute lymphocytic leukemia diagnosis (ALL) with django and tensorflow.
